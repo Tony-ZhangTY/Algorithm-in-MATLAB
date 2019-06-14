@@ -7,7 +7,7 @@ function index = binarySearch(array, targetValue)
 % Outputs;      returns either the index of targetValue in the array,
 %               or the prompt if the array did not contain the targetValue
 %
-% Description: The function takes an increasing assorted array and check if
+% Description: The function takes an ascending array and check if
 %              the targetValue is in the array. If it is in the array, it
 %              returns its index; if not, it returns the prompt that it is
 %              not in the array
